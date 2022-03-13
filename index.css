@@ -79,4 +79,8 @@
     margin-top: 1.25rem;
 }
 
-@media
+@media screen and (max-width:770px){
+    #body .container .main-parent .main{
+        
+        width: 28.75rem;
+    }
